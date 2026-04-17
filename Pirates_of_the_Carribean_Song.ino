@@ -8,10 +8,6 @@ const int red = 9; //red port
 const int green = 10; //green port
 const int blue = 11; //blue port
 
-//char songNotes [] = {'g', 'a', 'c', 'a', 'e', 'e', 'd', //if using character songNotes list, it can only be a character, G# (gsharp), Bb (bflat)
-                     //'g', 'a', 'c', 'a', 'd', 'd', 'c', 
-                     //'g', 'a', 'c', 'a', 'c', 'd', ' ', 'a', 'g', ' ', 'g', 'd', 'c'}; //array or list of character values, array - data structure that stores multiple values
-
 String stringSongNotes[] = {"A", "C", "D", "D", "D", "E", "F", "F", 
                             "F", "G", "E", "E", "D", "C", "C", "D",
                             "A", "C", "D", "D", "D", "E", "F", "F",
