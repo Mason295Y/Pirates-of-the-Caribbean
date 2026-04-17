@@ -16,10 +16,6 @@ String stringSongNotes[] = {"A", "C", "D", "D", "D", "E", "F", "F",
                             "G", "A", "A#", "A#", "A", "G", "A", "D", 
                             "D", "E", "F", "F", "G", "A", "D", 
                             "D", "F", "E", "E", "F", "D", "E"};
-                            //"h", "j", "l", "l", "l", "m", "n", "n", 
-                            //"n", "o", "m"};//"h"}; //"l", "k", "k", "l",
-                            //"h", "j", "k", "k", "k", "m", "n", "n"};
-                          
 
 int beats[] = {16, 16, 8, 8, 16, 16, 8, 8, //beats and tempo correlate, beats determine length of time a not plays, if you want a decimal it can't be an integer
                16, 16, 8, 8, 16, 16, 8, 8, 
@@ -29,12 +25,7 @@ int beats[] = {16, 16, 8, 8, 16, 16, 8, 8, //beats and tempo correlate, beats de
                16, 16, 8, 8, 16, 16, 8, 8, 
                16, 16, 8, 8, 16, 16, 4,
                16, 16, 8, 8, 16, 16, 4,};
-               //16, 16, 8, 8, 16, 16, 8, 8,
-               //16, 16, 8}; //16, 16, 8, 8,
-               //16, 16, 8, 8, 16, 16, 8, 8};
-
-//float halfBeats[] = {5, .5, 6.7};
-
+          
 String lyrics[] = {"A", "C", "D", "D", "D", "E", "F", "F", 
                             "F", "G", "E", "E", "D", "C", "C", "D",
                             "A", "C", "D", "D", "D", "E", "F", "F",
@@ -43,9 +34,6 @@ String lyrics[] = {"A", "C", "D", "D", "D", "E", "F", "F",
                             "G", "A", "A#", "A#", "A", "G", "A", "D", 
                             "D", "E", "F", "F", "G", "A", "D", 
                             "D", "F", "E", "E", "F", "D", "E"};
-                            //"h", "j", "l", "l", "l", "m", "n", "n", 
-                            //"n", "o", "m"};//"h"}; //"l", "k", "k", "l",
-                            //"h", "j", "k", "k", "k", "m", "n", "n"};
 
 
 int colors [] = {9, 10, 11, 9, 10, 11, 9, 10,
